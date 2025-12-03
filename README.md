@@ -20,7 +20,7 @@ This day marks the version update of myself — Can Builds.
 ## 7 Day HTML + CSS Reset Plan
 
 - [x] Day 1 – Basic HTML structure, headings, paragraphs, links
-- [ ] Day 2 – Lists, images, multimedia
+- [x] Day 2 – Lists, images, multimedia
 - [ ] Day 3 – Forms
 - [ ] Day 4 – CSS basics (colors, fonts, box model)
 - [ ] Day 5 – Flexbox layouts
