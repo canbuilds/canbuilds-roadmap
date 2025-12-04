@@ -22,6 +22,9 @@ This day marks the version update of myself — Can Builds.
 - [x] Day 1 – Basic HTML structure, headings, paragraphs, links
 - [x] Day 2 – Lists, images, multimedia
 - [x] Day 3 – Forms
+      ### Mini Projects
+- [x] Motivation Generator (Day Bonus)
+
 - [ ] Day 4 – CSS basics (colors, fonts, box model)
 - [ ] Day 5 – Flexbox layouts
 - [ ] Day 6 – Responsive design
