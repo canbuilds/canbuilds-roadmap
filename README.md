@@ -28,3 +28,4 @@ This day marks the version update of myself — Can Builds.
 - [ ] Day 7 – Simple personal portfolio page
 
 I will update this list every day as I make progress.
+_First step of Can Builds v3 activated._
